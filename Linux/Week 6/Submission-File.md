@@ -63,6 +63,3 @@ Save and submit the completed file for your homework submission.
 ---
 
 © 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
-
-
-![image](https://user-images.githubusercontent.com/94209591/161419494-1373d835-20d3-49d4-9989-c66bfb802dc0.png)
